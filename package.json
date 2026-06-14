@@ -1,0 +1,15 @@
+{
+  "name": "siddharth-scientific",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "build": "echo build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
